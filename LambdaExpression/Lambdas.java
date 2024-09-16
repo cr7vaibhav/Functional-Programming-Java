@@ -19,5 +19,6 @@ public class Lambdas {
         thing.print("Mhm", "!");
     }
 
-    //in a lambda you are only able to define one method therfore it can only be used on functional interface
+    // in a lambda you are only able to define one method therfore it can only be
+    // used on functional interface
 }
